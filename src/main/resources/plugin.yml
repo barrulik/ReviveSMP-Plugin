@@ -2,7 +2,7 @@ name: ReviveSMP_By_Barrulik
 version: '${project.version}'
 main: me.barrulik.revivesmp.ReviveSMP
 api-version: 1.18
-prefix: LIFESTEAL
+prefix: REVIVESMP
 authors: [ Barrulik ]
 description: A revivesmp plugin.
 commands:
