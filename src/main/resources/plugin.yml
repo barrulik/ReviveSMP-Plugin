@@ -1,0 +1,16 @@
+name: ReviveSMP_By_Barrulik
+version: '${project.version}'
+main: me.barrulik.revivesmp.ReviveSMP
+api-version: 1.18
+prefix: LIFESTEAL
+authors: [ Barrulik ]
+description: A revivesmp plugin.
+commands:
+  reset:
+    description: Resets everyone's lives
+    usage: /<command>
+    permission: revivesmp.reset
+    permission-message: You do not have the revivesmp.resethealth permission.
+  lives:
+    description: Shows your respawn count
+    usage: /<command>
